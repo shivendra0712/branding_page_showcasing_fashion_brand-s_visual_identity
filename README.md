@@ -14,7 +14,7 @@ The purpose of this landing page is to present the core elements of a fashion br
 * **Visual Representation:** A right section showcases a high-quality image that embodies the brand's style and target audience.
 * **Custom Fonts:** Utilizes Google Fonts (Inter, Parkinsans) to establish a unique typographic identity.
 * **Icon Integration:** Uses Remix Icons for various interactive elements (menu, search, user, heart, shopping bag).
-* **Responsive Design:** Includes a `responsive.css` file for adapting the layout to different screen sizes.
+
 
 ## Technologies Used
 
